@@ -13,4 +13,4 @@ This Power BI dashboard provides a detailed look at retail sales and profit perf
 
 The second page dives deeper into the details, showing the top 10 states with the highest sales and profit using bar charts. It also highlights sales by product sub-category, like Phones and Chairs, and compares shipping methods like Standard and First Class. Line charts display monthly sales and profit trends year-over-year. With its easy-to-use filters and professional design, this dashboard helps identify trends, top-performing areas, and opportunities to improve sales and operations.
 
-#### Dashboard Visualization
+
